@@ -1,0 +1,26 @@
+{
+  "name": "odin-restaurant-page",
+  "version": "1.0.0",
+  "description": "a restaurant page created for the OdinProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joerow/odin-restaurant-page.git"
+  },
+  "author": "Joerow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joerow/odin-restaurant-page/issues"
+  },
+  "homepage": "https://github.com/joerow/odin-restaurant-page#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
